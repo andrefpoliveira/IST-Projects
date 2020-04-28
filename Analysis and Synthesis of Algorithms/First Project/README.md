@@ -4,7 +4,7 @@
 
 # 2019/2020
 
-## 1◦ Projecto
+## 1º Projecto
 
 ### Data Limite de Entrega: 20 de Março de 2020
 
