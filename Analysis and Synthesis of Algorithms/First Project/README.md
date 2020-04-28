@@ -22,8 +22,7 @@ O ficheiro de entrada contém a informação sobre as estimativas de nota dos al
 
 ## <b>Output</b>
 
-O programa deverá escrever no output uma lista deN linhas, em que cada linha contém a
-estimativa de nota recalculada do aluno cujo número coincide com o índice da linha.
+O programa deverá escrever no output uma lista de <i>N</i> linhas, em que cada linha contém a estimativa de nota recalculada do aluno cujo número coincide com o índice da linha.
 
 ## <b>Exemplo</b>
 
