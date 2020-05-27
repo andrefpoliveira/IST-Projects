@@ -1,0 +1,8 @@
+DVD:Era uma vez na Amadora:Fernando Fonseca:20:FICTION:200505550:0
+BOOK:A arte de sobreviver no 36:Joao Fonseca:20:FICTION:1234567892:22
+BOOK:Bairro Alto e o Budismo Zen:Zun Tse Fonseca:20:FICTION:1234567891:50
+DVD:48 Horas para o Exame:Orlando Fonseca:12:FICTION:200505553:10
+BOOK:Analise Matematica sem Mestre:Carlos Fonseca:20:SCITECH:1234567890:5
+DVD:Lumiar Selvagem:Pedro Fonseca:20:FICTION:200505551:5
+BOOK:Dicionario de Programacao:Odete Fonseca:20:REFERENCE:1234567890:50
+USER:Obi-Wan Kenobi:obiwan@jedi.org
