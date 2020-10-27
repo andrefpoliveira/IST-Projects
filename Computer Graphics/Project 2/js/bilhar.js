@@ -173,7 +173,7 @@ function createTable() {
 // Creates 15 initial balls
 function createInitialBalls() {
     'use strict';
-    var colors = [0xff0000, 0x00ff00, 0x0000ff, 0xe05a00, 0x800080, 0xffff00];
+    var colors = [0xff0000, 0x00fff0, 0x0000ff, 0xe05a00, 0x800080, 0xffff00];
     for (let i = 0; i < 15; i++) {
 
         var x = ((i % 3) - 1) * 30;
